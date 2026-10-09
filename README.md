@@ -1,6 +1,6 @@
 # BÁO CÁO KIỂM THỬ API
 
-**1. Tên dự án:** Thực hành kiểm thử API bằng Postman (Postman API Testing Practice)
+**Tên dự án:** Thực hành kiểm thử API bằng Postman (Postman API Testing Practice)
 
 **Ngày kiểm thử:** 09/10/2026
 
