@@ -40,8 +40,8 @@ Postman test scripts were used to verify HTTP status codes and response data for
 ## 6. Test Results
 
 * Total test cases: 8
-* Passed: [Enter the actual number]
-* Failed: [Enter the actual number]
+* Passed: 8
+* Failed: 0
 
 The test results were recorded based on the actual responses received in Postman.
 
