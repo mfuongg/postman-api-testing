@@ -62,7 +62,6 @@ Các ảnh bao gồm:
 * Kết quả thực thi các đoạn mã kiểm thử trong Postman.
 * Kết quả kiểm thử các trường hợp không hợp lệ (Negative Testing).
 
-Các ảnh được lưu cùng cấp với file `README.md` và file `postman_collection.json`, không nằm trong thư mục `screenshots`.
 
 ## 8. Hạn chế
 
